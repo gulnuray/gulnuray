@@ -1,172 +1,125 @@
-💫 About Me
-Hello, I'm Hümeyra Gül Nuray 👩🏻‍💻
+<h1 align="center">Hi 👋, I'm Hümeyra Gül Nuray</h1>
+<h3 align="center">4th-Year Computer Engineering Student | Backend & Cloud Enthusiast</h3>
 
-I am a 4th-year Computer Engineering student at Mersin University who is passionate about full-stack development, backend architecture, cloud systems, and IoT technologies.
+<p align="center">
+  🎓 Mersin University <br>
+  💻 Backend Development & Scalable Systems <br>
+  ☁️ Cloud & Serverless Architecture <br>
+  📡 IoT & Embedded Systems
+</p>
 
-Throughout my academic journey and internship experience, I have focused on building real-world, scalable systems rather than only academic projects. I enjoy designing complete software architectures — from database modeling to API development, authentication, frontend integration, and deployment.
+---
 
-🏢 Internship Experience
-During my internship, I worked on enterprise-level systems and gained hands-on experience in:
+## 💫 About Me
 
-Git & branch management
+I am a 4th-year Computer Engineering student passionate about **backend development, cloud architecture, and scalable system design**.
 
-TFS 2018 & pipeline systems
+Throughout my academic journey and internship experience, I focused on building **production-oriented systems** rather than only academic assignments.
 
-Code review processes
+I enjoy designing complete software architectures — from **database modeling and API development** to **authentication systems, frontend integration, and deployment pipelines**.
 
-Version control strategies
+My goal is to grow as a backend-focused software engineer who understands **clean architecture and real-world scalability**.
 
-Project architecture planning
+---
 
-Team-based software development
+## 🏢 Internship Experience
 
-I learned how professional teams manage builds, CI/CD processes, and production-level code integrity. This experience strengthened my understanding of software lifecycle management and collaborative development.
+During my internship, I gained hands-on experience in:
 
-🚀 Projects & Technical Focus
-🔹 Full-Stack Web Development
-I developed multiple full-stack applications using:
+- Git & branch management strategies  
+- TFS 2018 & pipeline systems  
+- Code review workflows  
+- Version control & release processes  
+- CI/CD fundamentals  
+- Team-based architecture planning  
 
-ASP.NET Core Web API
+This strengthened my understanding of professional software lifecycle management in real-world environments.
 
-JWT Authentication
+---
 
-Entity Framework Core
+## 🚀 Projects
 
-SQL Server
+### 🛒 E-Commerce Application
+- ASP.NET Core Web API  
+- JWT Authentication & Role-based Authorization  
+- Entity Framework Core  
+- SQL Server  
+- Layered & Clean Architecture  
 
-Flutter (Frontend Integration)
+### ☁️ AWS Task Management System
+- AWS Lambda  
+- API Gateway  
+- DynamoDB  
+- Cognito Authentication  
+- S3 Hosting  
 
-RESTful API architecture
+### 📷 ESP32 Smart Doorbell
+- ESP32-CAM  
+- Telegram Bot Integration  
+- Sensor-based automation  
+- Real-time notifications  
 
-Role-based authorization
+### 📱 Flutter + Web API Integration
+- API authentication flow  
+- JWT token handling  
+- Mobile-ready backend services  
 
-Error handling & logging
+---
 
-One of my major projects is a complete E-Commerce Application with:
+## 💻 Tech Stack
 
-Secure JWT login system
+### 🧩 Languages
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
-Product listing & management
+### ⚙ Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
 
-Cart system
+### ☁ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API_Gateway-FF9900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-Backend API architecture
+---
 
-Database integration
+## 📊 GitHub Stats
 
-Clean layered structure
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gulnuray&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulnuray&layout=compact&theme=tokyonight" />
+</p>
 
-🔹 Cloud & Serverless Architecture (AWS)
-I built a Task Management Application using:
+---
 
-AWS Lambda
+## 🎯 Areas of Interest
 
-API Gateway
+- Backend Engineering  
+- API Architecture  
+- Cloud & Serverless Systems  
+- Authentication & Security  
+- DevOps & Pipeline Automation  
+- IoT Systems  
+- Scalable System Design  
 
-DynamoDB
+---
 
-Cognito Authentication
+## ✨ As a Developer
 
-S3 (Frontend hosting)
+I am structured, detail-oriented, and analytical.  
+I enjoy breaking down complex systems into manageable components and building them step by step with clean architecture in mind.
 
-This project helped me understand:
-
-Serverless architecture
-
-REST API design
-
-Cloud authentication flows
-
-CORS management
-
-Production deployment structure
-
-🔹 IoT & Embedded Systems
-I also developed hardware-based projects including:
-
-ESP32-CAM Smart Doorbell System
-
-Telegram bot integration
-
-Motion detection & sensor systems
-
-Servo motor, LM35, Ultrasonic sensor integration
-
-HTTP request handling from embedded devices
-
-Through these projects, I gained strong knowledge in:
-
-Microcontroller programming
-
-Real-time sensor data processing
-
-Network-based device communication
-
-💻 Technical Skills
-Languages
-C#
-
-Python
-
-JavaScript
-
-C
-
-SQL
-
-Backend & Frameworks
-ASP.NET Core
-
-Web API
-
-Entity Framework Core
-
-JWT Authentication
-
-Flask (basic microservice experience)
-
-Database
-SQL Server
-
-DynamoDB
-
-MySQL
-
-PostgreSQL (basic)
-
-Cloud & DevOps
-AWS (Lambda, API Gateway, Cognito, DynamoDB, S3)
-
-Git & GitHub
-
-TFS 2018
-
-Pipeline systems
-
-Basic CI/CD understanding
-
-Mobile
-Flutter (API integration, authentication, state management)
-
-🧠 Areas of Interest
-Backend Development
-
-API Architecture
-
-Cloud Systems
-
-Authentication & Security
-
-DevOps & Pipeline Systems
-
-IoT Systems
-
-Scalable System Design
-
-✨ Who Am I as a Developer?
-I am detail-oriented, structured, and highly analytical.
-I enjoy understanding systems deeply rather than memorizing tools.
-
-I love breaking complex systems into manageable components and building them step by step.
-
-I am constantly learning, documenting, and improving myself — not just coding, but understanding why things work.
+Always learning. Always building.
