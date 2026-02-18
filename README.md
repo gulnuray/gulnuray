@@ -99,10 +99,9 @@ This strengthened my understanding of professional software lifecycle management
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gulnuray&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulnuray&layout=compact&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=gulnuray&theme=tokyonight" />
 </p>
+
 
 
 
